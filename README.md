@@ -28,6 +28,8 @@
   * 0x7D100 - 0x7F900
 * SPI Pinout
 ![SPI Pinout](https://i.imgur.com/3yCf6k4.jpg)
+* DQ0 = MOSI (master out slave in)
+* DQ1 = MISO (master in slave out)
 * Generic SPI Pinout
 ![Generic SPI](https://www.arduino.cc/en/uploads/Tutorial/at25hp512_pins2.jpg)
 ## Software
